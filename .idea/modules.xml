@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/gmail.iml" filepath="$PROJECT_DIR$/.idea/gmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmail-user-manager/gmail-user-manager.iml" filepath="$PROJECT_DIR$/gmail-user-manager/gmail-user-manager.iml" />
     </modules>
   </component>
 </project>
